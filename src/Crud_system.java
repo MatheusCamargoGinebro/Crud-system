@@ -54,7 +54,7 @@ public class Crud_system {
 
     /*-------------------------------------------+ CRUD - READ +-------------------------------------------*/
     // Definindo o método para ler um registro do arquivo:
-    // OBS: Usamos a mesma lógica que usamos no projeto: dividir a string lida
+    // OBS: Usando a mesma lógica que usamos no projeto: dividir a string lida
     // (usando o método split(",")) no arquivo em partes e comparar ela com o que o
     // usuário digitou (valor passado para a função):
     // cRud - Read
